@@ -18,6 +18,10 @@ Ao concluir a sequência, a equipe deverá ser capaz de:
 
 ## Sequência das atividades
 
+### 0. Briefing do projeto
+
+Antes de iniciar os roteiros, leia em equipe a apresentação [Connexa — Proposta do Projeto](Connexa_Proposta_do_Projeto.pptx). Ela contém o cenário, os envolvidos, os objetivos institucionais, o escopo, as restrições e os pontos em aberto que fundamentam o levantamento de requisitos.
+
 ### 1. RA-01 — Construção do Product Backlog
 
 Siga o [roteiro de construção do Product Backlog](RA-01_Roteiro_Product_Backlog.md) para extrair requisitos do briefing do Connexa, criar a hierarquia de itens no Azure Boards, escrever critérios de aceite, estimar, ordenar e classificar as histórias.
@@ -52,6 +56,7 @@ A apresentação `Azure_Boards_Backlog_e_Sprint1.pptx` oferece o apoio visual pa
 
 | Arquivo | Finalidade |
 |---|---|
+| `Connexa_Proposta_do_Projeto.pptx` | Briefing do projeto usado como fonte para o levantamento de requisitos |
 | `RA-01_Roteiro_Product_Backlog.md` | Instruções para construir e verificar o Product Backlog |
 | `RA-02_Roteiro_Planejamento_Sprint1.md` | Instruções para planejar a primeira sprint |
 | `Exemplo_Referencia_Backlog_PedeJa.md` | Exemplo completo em um domínio diferente |
