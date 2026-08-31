@@ -14,7 +14,9 @@
 | `<organizacao-da-disciplina>` | Organização no GitHub definida pelo docente na primeira aula |
 | `<turma>` | Identificador da turma, informado pelo docente |
 | `NN` | Número da equipe, com dois dígitos (`01`, `02`, … `12`) |
-| `engsoft-<turma>-equipe-NN` | Nome da organização da equipe no Azure DevOps |
+| `engsoft-<turma>-equipe-NN` | Sugestão de nome para a organização da equipe no Azure DevOps |
+
+> O nome da organização no Azure DevOps é uma convenção sugerida. O nome do projeto é obrigatório e deve ser exatamente `Connexa`.
 
 ---
 
@@ -48,8 +50,8 @@ Ao final desta atividade, a equipe deverá ser capaz de:
 Antes de iniciar, confirme que a equipe já concluiu os passos da proposta do projeto:
 
 - [ ] Equipe formada, com número `NN` atribuído pelo docente
-- [ ] Organização `engsoft-<turma>-equipe-NN` criada no Azure DevOps, região *Brazil South*
-- [ ] Projeto `Connexa` criado com o **processo Agile** (não *Basic*, não *Scrum*)
+- [ ] Organização criada no Azure DevOps, preferencialmente com o nome `engsoft-<turma>-equipe-NN`, na região *Brazil South*
+- [ ] Projeto criado obrigatoriamente com o nome `Connexa` e com o **processo Agile** (não *Basic*, não *Scrum*)
 - [ ] Todos os integrantes convidados com nível de acesso *Basic*
 - [ ] Docente adicionado ao projeto
 - [ ] Documento de proposta do projeto lido integralmente, em equipe

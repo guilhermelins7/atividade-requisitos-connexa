@@ -14,7 +14,9 @@
 | `<organizacao-da-disciplina>` | Organização no GitHub definida pelo docente na primeira aula |
 | `<turma>` | Identificador da turma, informado pelo docente |
 | `NN` | Número da equipe, com dois dígitos |
-| `engsoft-<turma>-equipe-NN` | Nome da organização da equipe no Azure DevOps |
+| `engsoft-<turma>-equipe-NN` | Sugestão de nome para a organização da equipe no Azure DevOps |
+
+> O nome da organização no Azure DevOps é uma convenção sugerida. O nome do projeto é obrigatório e deve ser exatamente `Connexa`.
 
 ---
 
